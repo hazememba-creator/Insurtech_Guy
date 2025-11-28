@@ -265,7 +265,7 @@ Given more time, I would add:
 
 ## 👨‍💻 Author
 
-**Hazem Ali Abdallah**
+**Hazem Abdallah**
 
 - 34 years experience in digital services
 - Recently managed regional Insurtech project in MEA region
