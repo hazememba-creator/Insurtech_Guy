@@ -1,0 +1,14 @@
+# The Insurtech Guy - Dependencies
+# Google ADK Agents Intensive Capstone Project
+
+# Core ADK Framework
+google-adk>=0.1.0
+
+# Google Generative AI
+google-generativeai>=0.3.0
+
+# Required for ADK
+google-genai>=0.1.0
+
+# Utility packages
+python-dotenv>=1.0.0
